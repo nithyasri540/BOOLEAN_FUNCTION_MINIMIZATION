@@ -39,7 +39,7 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-
+t
 **Output:**
 
 **RTL**
